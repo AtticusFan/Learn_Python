@@ -1,1 +1,2 @@
-# Learn_Python_ML
+# Python在深度學習的應用
+持續更新中 ...
